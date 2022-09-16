@@ -1,0 +1,62 @@
+Name: Abhiram Reddy
+Journal: J1002
+Date: 18-Aug-2022
+
+
+I receieved assistance from: Srujan Sannidhi
+
+I assisted: no one
+1.1:
+One of the other services that I use is Google
+Another of the services that I use is Valorant
+
+2.1:
+I think that the ability to have two different users is important because two different users can exist but also have the same attributes or subdirectories
+
+3.1:
+The home directory has its own symbol because it is the main directory/root
+
+4.1:
+The prompt changed to show that the user is now in the Merlin directory
+
+5.1:
+Whenever I press the up arrow the most recent command entered shows up
+5.2:
+Whenever I press the down arrow the least recent command entered shows up
+
+6.1:
+"Hello, World!" was not printed to the screen as before. This is because the echo command wrote Hello world in the out.txt file
+
+7.1:
+The ls command shows all directories directly under the main directory, but the tree command shows all the directories including sub directories in a tree format
+7.2:
+If you want to see what is in a certain directory use ls, but if you want to see everything in a directory and the sub directories, use tree
+
+8.1:
+I think the argument sleep specifies a pause
+8.2:
+I proved my hypothesis because when I entered the sleep command, I was unable to do anything except to cancel the command
+
+9.1:
+This command runs in the background when you use the "&" symbl
+9.2:
+To run a job in the background means to run the job without user interference while running the rest of the program
+9.3:
+The number displayed in the bracket specfies the order of the processes
+
+10.1:
+When I execute the jobs command, it shows me the procceses that are currently running or the procceses which are done
+10.2:
+The command shows the processes in order of usage and whether or not they have been completed
+
+What did I learn? What is the "big idea"?
+I learned about client-server models and how and where they are used in the real world. I also learned about what a shell is. I learned what directories are and about the hierarchy of directories. I also learned a few commands that deal with direct    ories, files, and jobs.
+
+What challenges did I encounter?
+Some challenges I encountered was rememebering the commands and how they each work and also implementing them
+
+How could this experience be improved?
+If there was a video to follow along and explain how to use the commands
+
+Free Reflection: How has what I've learned affected my thinking?
+I became more knowledgeable about linux commands and I learned how directories are designed and now whenever I need to do something with a directory I have the necessary commands to do so

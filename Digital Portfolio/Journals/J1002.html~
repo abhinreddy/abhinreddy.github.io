@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Abhi Reddy - J1002</title>
+    <body style="background-color:powderblue;">
+  </head>
+  <style>
+    body{
+	background-color: powderblue;
+	color:black;
+	font-family: 'Clarendon Condensed', monospace;
+	border: 10px solid pink;
+	padding: 50px;
+    }
+  </style>
+  <body>
+    <h1 style="text-align:center;" >Journal Entry - J1002</h1>
+    <h3>Name: Abhiram Reddy <br>
+      Journal: J1002 <br>
+      Date: 18-Aug-2022
+    </h3>
+    <p>
+<br>
+      I receieved assistance from: Srujan Sannidhi
+<br>
+I assisted: no one <br>
+<hr>
+	    
+<br>
+<h1> Journal Questions</h1>
+     <b> 1.1: Name at least two other services that you personally use which are implemented using a Client/Server Model</b> <br>
+      One of the other services that I use is Google.
+      Another of the services that I use is Valorant <br>
+    <br>  
+     <b> 2.1: It appears that both Jack Williams and John Williams can have a directory of the same name. Do you think the ability to have two different users create a directory of the same name is important? Why? </b>
+      I think that the ability to have two different users is important because two different users can exist but also have the same attributes or subdirectories<br>
+    <br>
+     <b> 3.1: Why do you think the home directory has a special symbol to represent it?</b> <br>
+      The home directory has its own symbol because it is the main directory/root <br>
+    <br>
+     <b> 4.1: Did the prompt change? If so, how? Why is this useful?</b> <br>
+      The prompt changed to show that the user is now in the Merlin directory <br>
+    <br>
+     <b> 5.1: What happens each time you press the up arrow?</b> <br>
+      Whenever I press the up arrow the most recent command entered shows up<br>
+     <b> 5.2: What happens each time you press the down arrow?</b> <br>
+      Whenever I press the down arrow the least recent command entered shows up<br>
+<br>
+     <b> 6.1: Was "Hello, World!" printed to the screen as before? If not, why not? What do you think happened to the text?</b> <br>
+      "Hello, World!" was not printed to the screen as before. This is because the echo command wrote Hello world in the out.txt file<br>
+<br>
+     <b> 7.1: How does the ls command differ from the tree command?</b><br>
+      The ls command shows all directories directly under the main directory, but the tree command shows all the directories including sub directories in a tree format<br>
+     <b> 7.2: How do you choose to use one over the other?</b> <br>
+      If you want to see what is in a certain directory use ls, but if you want to see everything in a directory and the sub directories, use tree<br>
+<br>
+     <b> 8.1: What do you think the argument to sleep specifies?</b> <br>
+      I think the argument sleep specifies a pause<br>
+     <b> 8.2: Are you able to prove your hypothesis? How?</b> <br>
+      I proved my hypothesis because when I entered the sleep command, I was unable to do anything except to cancel the command<br>
+<br>
+     <b> 9.1: How is the behavior different from what you expected?</b> <br>
+      This command runs in the background when you use the "&" symbol<br>
+     <b> 9.2: What do you think it means to run a job in the background?</b> <br>
+      To run a job in the background means to run the job without user interference while running the rest of the program<br>
+     <b> 9.3: What do you think the number displayed in brackets specifies?</b> <br>
+      The number displayed in the bracket specfies the order of the processes<br>
+<br>
+     <b> 10.1: What do you observe as you execute the jobs command?</b> <br>
+      When I execute the jobs command, it shows me the procceses that are currently running or the procceses which are done<br>
+     <b> 10.2: How do you explain your observations?</b> <br>
+      The command shows the processes in order of usage and whether or not they have been completed<br>
+<br>
+     <b> What did I learn? What is the "big idea"?</b><br>
+      I learned about client-server models and how and where they are used in the real world. I also learned about what a shell is. I learned what directories are and about the hierarchy of directories. I also learned a few commands that deal with directories, files, and jobs.<br>
+      <br>
+     <b> What challenges did I encounter?</b> <br>
+      Some challenges I encountered was rememebering the commands and how they each work and also implementing them<br>
+<br>
+     <b> How could this experience be improved?</b><br>
+      If there was a video to follow along and explain how to use the commands, then I feel like I would learn more because examples being shown help a lot<br>
+<br>
+     <b> Free Reflection: How has what I've learned affected my thinking?</b><br>
+      I became more knowledgeable about linux commands and I learned how directories are designed and now whenever I need to do something with a directory I have the necessary commands to do so
+  </body>
+  </html>

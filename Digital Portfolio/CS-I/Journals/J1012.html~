@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+ <html lang="en">
+     <head>
+         <title>Abhi Reddy - J1012</title>
+         <body style="background-color:powderblue;">
+        </head>
+    <style>
+        body{
+         background-color: powderblue;
+	         color:black;
+	         font-family: 'Clarendon Condensed', monospace;
+	        border: 10px solid pink;
+         padding: 50px;
+	     }
+           </style>
+     <body>
+        <h1 style="text-align:center;" >Journal Entry - J1012</h1>
+         <h3>Name: Abhiram Reddy <br>
+             Journal: J1012 <br>
+             Date: 9-Sept-2022
+          </h3>
+         <p>
+      <br>
+            I receieved assistance from: Srujan Sannidhi
+       <br>
+       I assisted: no one <br>
+      <hr>
+     
+      <br>
+      <h1> Journal Questions</h1>
+           <b> 1.1: Describe the general process for executing addition, regardless of base</b> <br>
+           Step 1: Set up the digits vertically, like regular addition or subtraction<br>
+	   Step 2: Start from the right, and add the column together. Carry over the value that is more than a single digit over to the next column<br>
+	   Step 3: Repeat steps 1 and 2 for the rest of the columns, until you cannot carry anymore<br>
+	   Step 4: The number created (which is at the bottom of the columns) is the sum of the numbers<br>
+          <br>
+      <b> 2.1: What special factors need to be considered when executing addition with octal numbers? </b><br>
+     Octal numbers exhibit a special case because it has only eight digits (0-7), so when executing addition, you have to skip numbers that include the digits eight or nine<br>
+          <br>
+	  <b> 3.1: What special factors need to be considered when executing addition with hexadecimal numbers?</b> <br>
+   Hexadecimal numbers are unique because after the digit nine, the next six digits are actually letters A,B,C,D,E,F that represent 11,12,13,14,15,and 16 respectively. The number 10 is carried over because it cannot be represented by a single digit.<br>
+  <br>
+  <b> 4.1: What special factors need to be considered when executing addition with binary numbers?</b> <br>
+  The Binary system is a lot simpler than the other systems because it only has two digits: 1 and 0. Adding a 1 and 0 results in a 1, and adding a 0 and 0 results in a 0, just like regular addition. But when you add a 1 and a 1, it results in a 10, which has to be carried over and added. When a carry is added to a 1 + 1, it results in an 11. <br>
+  <br>
+  <b>What did I learn? What is the "big idea"?</b><br>
+  This lesson, I learned about 3 different base systems (Octal, Hexadecimal, and Binary) and I learned how to add numbers in each system.<br>
+  <br>
+  <b>What challenges did I encounter?</b><br>
+  No challeges encountered today!<br>
+  <br>
+  <b>How could this experience be improved?</b><br>
+  I would like some practice problems to enhance my learning along the way<br>
+  <br>
+  <b>Free Reflection: How has what I've learned affected my thinking?</b><br>
+  I learned how to add numbers in three different base systems and this may come in handy in the future.
+     </body>
+ <html>
+   
+  
